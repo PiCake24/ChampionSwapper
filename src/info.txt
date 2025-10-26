@@ -1,0 +1,24 @@
+step1:
+choose champ1 from riot files (the one that should overwrite)
+
+step2:
+choose champ2 from riot files (the one that shuld be overwritten)
+
+Step3:
+unpack champ1 and 2
+
+Step4:
+choose skin for champ1
+skin for champ2 is always base
+
+step5:
+move skn, skl from champ2 to champ 1
+
+step6:
+show all anim files for champ1, for each one create a button, where the user chooses which one from champ2 fits (2nd button to choose if he doesnt want to do a replacement)
+
+step7:
+data modify if needed
+
+todo:
+create a file to save which anim was moved where and add an option to read said file
